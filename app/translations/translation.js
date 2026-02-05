@@ -18,7 +18,7 @@ export const translations = {
       description:
         "Ingénieur logiciel spécialisé dans la création d'applications web scalables et l'architecture microservices. Expérience en Spring Boot, Angular, Kafka et CI/CD.",
       yearsStudy: "5+ ans d'études",
-      internships: "2 stages",
+      internships: "3 stages",
       contactMe: "Me Contacter",
       downloadCV: "Télécharger CV",
       contact: "Contact",
@@ -88,13 +88,6 @@ export const translations = {
     projects: {
       sectionTitle: "Réalisations",
       title: "Projets Clés",
-      project1: {
-        title: "Plateforme de capitalisation des connaissances",
-        subtitle: "Microservices • Capgemini",
-        task1: "Plateforme entreprise pour centraliser expertise et retours projets",
-        task2: "Spring Boot + Angular + Kafka pour l'orchestration",
-        task3: "Keycloak, Docker et CI/CD GitLab",
-      },
       project2: {
         title: "Esprit Talent",
         subtitle: "MERN + CI/CD",
@@ -162,7 +155,7 @@ export const translations = {
       description:
         "Software engineer building scalable web applications with a focus on microservices architecture, DevOps, and clean delivery pipelines.",
       yearsStudy: "5+ years of study",
-      internships: "2 internships",
+      internships: "3 internships",
       contactMe: "Get In Touch",
       downloadCV: "Download CV",
       contact: "Contact",
@@ -229,13 +222,6 @@ export const translations = {
     projects: {
       sectionTitle: "Achievements",
       title: "Featured Projects",
-      project1: {
-        title: "Knowledge Capitalization Platform",
-        subtitle: "Microservices • Capgemini",
-        task1: "Enterprise platform centralizing expertise and project feedback",
-        task2: "Spring Boot + Angular + Kafka orchestration",
-        task3: "Keycloak, Docker and GitLab CI/CD",
-      },
       project2: {
         title: "Esprit Talent",
         subtitle: "MERN + CI/CD",
@@ -303,7 +289,7 @@ export const translations = {
       description:
         "Software-Ingenieur mit Fokus auf skalierbare Webanwendungen, Microservices-Architektur, DevOps und effiziente Delivery-Pipelines.",
       yearsStudy: "5+ Jahre Studium",
-      internships: "2 Praktika",
+      internships: "3 Praktika",
       contactMe: "Kontakt aufnehmen",
       downloadCV: "Lebenslauf herunterladen",
       contact: "Kontakt",
@@ -370,13 +356,6 @@ export const translations = {
     projects: {
       sectionTitle: "Erfolge",
       title: "Ausgewählte Projekte",
-      project1: {
-        title: "Wissenskapitalisierungsplattform",
-        subtitle: "Microservices • Capgemini",
-        task1: "Unternehmensplattform zur Zentralisierung von Expertise und Projekt-Feedback",
-        task2: "Spring Boot + Angular + Kafka Orchestrierung",
-        task3: "Keycloak, Docker und GitLab CI/CD",
-      },
       project2: {
         title: "Esprit Talent",
         subtitle: "MERN + CI/CD",

@@ -754,58 +754,11 @@ export default function Portfolio() {
           </div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
-            {/* Project 1 - Knowledge Platform */}
-            <div className="glass rounded-none p-6 md:p-10 hover-lift group cursor-pointer">
-              <div className="flex justify-between items-start mb-6">
-                <div className="w-12 h-12 md:w-16 md:h-16 border border-yellow-500 flex items-center justify-center text-yellow-500 font-playfair text-xl md:text-2xl font-bold">
-                  01
-                </div>
-                <Briefcase className="w-6 md:w-8 h-6 md:h-8 text-yellow-500 opacity-50 group-hover:opacity-100 transition-opacity" />
-              </div>
-              <h3 className="font-playfair text-2xl md:text-3xl font-bold mb-3 group-hover:text-yellow-500 transition-colors">
-                {t.projects.project1.title}
-              </h3>
-              <p className="text-sm md:text-base text-slate-400 mb-4 font-dm-sans">
-                {t.projects.project1.subtitle}
-              </p>
-              <ul className="space-y-2 md:space-y-3 mb-6 text-sm md:text-base text-slate-300 font-dm-sans">
-                <li className="flex gap-2 md:gap-3">
-                  <span className="text-yellow-500">→</span>
-                  <span>{t.projects.project1.task1}</span>
-                </li>
-                <li className="flex gap-2 md:gap-3">
-                  <span className="text-yellow-500">→</span>
-                  <span>{t.projects.project1.task2}</span>
-                </li>
-                <li className="flex gap-2 md:gap-3">
-                  <span className="text-yellow-500">→</span>
-                  <span>{t.projects.project1.task3}</span>
-                </li>
-              </ul>
-              <div className="flex flex-wrap gap-2 mt-6 pt-6 border-t border-slate-800">
-                {[
-                  "Spring Boot",
-                  "Angular",
-                  "Kafka",
-                  "Docker",
-                  "GitLab CI/CD",
-                  "Keycloak",
-                ].map((tech) => (
-                  <span
-                    key={tech}
-                    className="px-2.5 md:px-3 py-1 md:py-1.5 bg-slate-500/10 border border-slate-500/20 text-yellow-500 text-xs font-dm-sans uppercase tracking-wider"
-                  >
-                    {tech}
-                  </span>
-                ))}
-              </div>
-            </div>
-
             {/* Project 2 - Esprit Talent */}
             <div className="glass rounded-none p-6 md:p-10 hover-lift group cursor-pointer">
               <div className="flex justify-between items-start mb-6">
                 <div className="w-12 h-12 md:w-16 md:h-16 border border-cyan-700 flex items-center justify-center text-cyan-500 font-playfair text-xl md:text-2xl font-bold">
-                  02
+                  01
                 </div>
                 <Code className="w-6 md:w-8 h-6 md:h-8 text-cyan-500 opacity-50 group-hover:opacity-100 transition-opacity" />
               </div>
@@ -849,7 +802,7 @@ export default function Portfolio() {
             <div className="glass rounded-none p-6 md:p-10 hover-lift group cursor-pointer">
               <div className="flex justify-between items-start mb-6">
                 <div className="w-12 h-12 md:w-16 md:h-16 border border-green-700 flex items-center justify-center text-green-500 font-playfair text-xl md:text-2xl font-bold">
-                  03
+                  02
                 </div>
                 <Code className="w-6 md:w-8 h-6 md:h-8 text-green-500 opacity-50 group-hover:opacity-100 transition-opacity" />
               </div>
@@ -897,7 +850,7 @@ export default function Portfolio() {
             <div className="glass rounded-none p-6 md:p-10 hover-lift group cursor-pointer">
               <div className="flex justify-between items-start mb-6">
                 <div className="w-12 h-12 md:w-16 md:h-16 border border-purple-700 flex items-center justify-center text-purple-500 font-playfair text-xl md:text-2xl font-bold">
-                  04
+                  03
                 </div>
                 <Code className="w-6 md:w-8 h-6 md:h-8 text-purple-500 opacity-50 group-hover:opacity-100 transition-opacity" />
               </div>
