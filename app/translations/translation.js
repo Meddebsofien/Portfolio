@@ -17,7 +17,7 @@ export const translations = {
       title: "Ingénieur Logiciel • Full Stack & DevOps",
       description:
         "Ingénieur logiciel spécialisé dans la création d'applications web scalables et l'architecture microservices. Expérience en Spring Boot, Angular, Kafka et CI/CD.",
-      yearsStudy: "5+ ans d'études",
+      yearsStudy: "5 ans d'études",
       internships: "3 stages",
       contactMe: "Me Contacter",
       downloadCV: "Télécharger CV",
@@ -46,9 +46,9 @@ export const translations = {
       university2: "Philips Marburg University, Allemagne",
       period2: "Oct 2025 - Présent",
       languages: "Langues",
-      french: "Français",
       english: "Anglais",
       arabic: "Arabe",
+      french: "Français",
       german: "Allemand",
       levelProfessional: "B2",
       levelIntermediate: "B2",
@@ -154,7 +154,7 @@ export const translations = {
       title: "Software Engineer • Full Stack & DevOps",
       description:
         "Software engineer building scalable web applications with a focus on microservices architecture, DevOps, and clean delivery pipelines.",
-      yearsStudy: "5+ years of study",
+      yearsStudy: "5 years of study",
       internships: "3 internships",
       contactMe: "Get In Touch",
       downloadCV: "Download CV",
@@ -288,7 +288,7 @@ export const translations = {
       title: "Software-Ingenieur • Full Stack & DevOps",
       description:
         "Software-Ingenieur mit Fokus auf skalierbare Webanwendungen, Microservices-Architektur, DevOps und effiziente Delivery-Pipelines.",
-      yearsStudy: "5+ Jahre Studium",
+      yearsStudy: "5 Jahre Studium",
       internships: "3 Praktika",
       contactMe: "Kontakt aufnehmen",
       downloadCV: "Lebenslauf herunterladen",
